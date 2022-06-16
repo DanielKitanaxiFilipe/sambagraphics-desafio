@@ -1,9 +1,6 @@
 ## Semba Graphc
 
 Uma aplicação React.js para o teste da vaga de front-end
-Este é o repositório do painel e da api feito com laravel v.6
-
-### RUN
 
 Para executar esse projecto no seu computador local precisa seguir os passos abaixo:
 
