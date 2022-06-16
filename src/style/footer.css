@@ -1,0 +1,76 @@
+footer{
+  background: #252526;
+  min-height: 308px;
+  display: flex;
+  padding-top: 100px;
+  padding-bottom: 60px;
+}
+.width-100{
+  width: 100%;
+}
+.footer-term{
+  background: #fab52b;
+  font-size: 16px;
+  color: #17161B;
+  padding: 30px;
+  text-align: center;
+}
+.footer-icon{
+  padding-top: 10px;
+}
+.footer-menu{
+  list-style: none;
+}
+.footer-midia{
+  color: #fff;
+}
+.nav-item-footer {
+  text-align: left ;
+  height: 35px;
+  width: 100%;
+}
+.link-icon{
+  font-size: 36px;
+  color: #FAB52B;
+  margin-right: 20px;
+}
+
+.envil-email{
+  background: #17161b;
+  border-radius: 10px;
+  width: 262px;
+  height: 44px;
+  display: flex;
+  border: 1px solid #fab52b;
+}
+.envil-email > input{
+  width: 100%;
+  border: none;
+  box-shadow: none;
+  outline: none;
+  background: none;
+  color: #fff;
+  padding-left: 40px;
+  padding-left: 40px;
+  font-size: 14px !important;
+}
+.envil-email > button{
+  transition: 0.2s;
+  color: #fab52b;
+  background: none;
+  border: none;
+  font-size: 18px;
+  cursor: pointer;
+  padding-right: 20px;
+}
+.envil-email > button:hover{
+  transition: 0.2s;
+  color: #ffff;
+}
+
+.footer-menu >.nav-item-footer  > .nav-link{
+  transition: 0.2s;
+  color: #fff;
+  font-size: 16px;
+  text-decoration: none;
+}

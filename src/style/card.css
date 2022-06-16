@@ -1,0 +1,60 @@
+.card{
+  flex: 0 0 auto;
+  width: 29%;
+  padding: 10px;
+  margin: 20px;
+  background: #252526;
+  border-radius: 10px;
+}
+.card > .card-body{
+  padding: 5px;
+}
+.card-body > img{
+  width: 100%;
+}
+.fa-star{
+  color: #fab52b;
+}
+.fa-circle{
+  margin-right: 5px;
+  font-size: 8px !important;
+  color: red;
+}
+.button-plus{
+  transition: 0.2s;
+  font-size: 23px;
+  padding: 0px;
+  background: none;
+  border: none;
+  color: #FAB52B;
+  cursor:pointer;
+}
+.button-plus:hover{
+  transition: 0.2s;
+  color: #fff;
+}
+.button-remove{
+  transition: 0.2s;
+  font-size: 23px;
+  padding: 0px;
+  margin-left: 10px;
+  background: none;
+  border: none;
+  color: #fff;
+  cursor:pointer;
+}
+.button-remove:hover{
+  transition: 0.2s;
+  color: red;
+}
+.fa-commenting{
+  color: #FAB52B;
+}
+.alert-idade{
+  background: red;
+  color: white;
+  font-size: 8px;
+  padding: 4px;
+  border-radius: 2px;
+  border: #fff 1px solid;
+}

@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "title":"Lorem ipsum",
+      "autor": "Daniel Filipe",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam lacinia eu tortor at finibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam lacinia eu tortor at finibus.",
+      "price": 80.00
+    },
+    {
+      "title":"Lorem ipsum",
+      "autor": "Daniel Filipe",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam lacinia eu tortor at finibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam lacinia eu tortor at finibus.",
+      "price": 900.00
+    },
+    {
+      "title":"Lorem ipsum",
+      "autor": "Daniel Filipe",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam lacinia eu tortor at finibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam lacinia eu tortor at finibus.",
+      "price": 500.00
+    },
+    {
+      "title":"Lorem ipsum",
+      "autor": "Daniel Filipe",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam lacinia eu tortor at finibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam lacinia eu tortor at finibus.",
+      "price": 10.00
+    },
+    {
+      "title":"Lorem ipsum",
+      "autor": "Daniel Filipe",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam lacinia eu tortor at finibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam lacinia eu tortor at finibus.",
+      "price": 30.00
+    },
+    {
+      "title":"Lorem ipsum",
+      "autor": "Daniel Filipe",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam lacinia eu tortor at finibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam lacinia eu tortor at finibus.",
+      "price": 150.00
+    }
+  ]
+}
