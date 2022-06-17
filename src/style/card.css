@@ -58,3 +58,15 @@
   border-radius: 2px;
   border: #fff 1px solid;
 }
+
+/**********************************************/
+@media (max-width: 1200px) {
+  .card{
+    width: 44%;
+  }
+}
+@media (max-width: 992px) {
+  .card{
+    width: 85%;
+  }
+}

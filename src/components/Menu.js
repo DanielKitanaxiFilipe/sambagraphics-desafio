@@ -15,19 +15,20 @@ export function Menu(){
             <li className='nav-item'>
               <a href="#" className='nav-link'>Alterar idioma</a>
             </li>
-            <li className='nav-item ms-30'>
+            <li className='nav-item ms-30 delet-div'>
               <button type='submit' className='btn-action'>Criar conta</button>
             </li>
-            <li className='nav-item ms-30'>
+            <li className='nav-item ms-30 delet-div'>
               <button type='submit' className='btn-wd'>Login</button>
             </li>
           </div>
+          <div className="delet-div-1200">          
           <div className="search">
             <input type="text" placeholder='Pesquisar'/>
             <span>
               <i className='fa fa-search'></i>
             </span>
-          </div>
+          </div></div>
         </div>
       </nav>
   );

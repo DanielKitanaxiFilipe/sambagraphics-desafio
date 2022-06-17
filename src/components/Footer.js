@@ -35,7 +35,7 @@ export function Footer(){
             <a href="#" className='nav-link'>Enviar HQ</a>
           </li>
       </div>
-      <div className='footer-midia width-100'>
+      <div className='footer-midia width-100 delet-div'>
         Siga-nos nas redes sociais <br />
         <div className='mt-20'>
         <a href="#" className='link-icon'><i className='fa fa-twitter'/></a>
@@ -46,13 +46,13 @@ export function Footer(){
          Assine a nossa Newsletter
          <div className="envil-email mt-20">
             <input type="text" placeholder='Digite seu email'/>
-            <button type='submit' title='Enviar Email'>
+            <button type='submit' title='Enviar Email'> 
               <i className='fa fa-paper-plane'></i>
             </button>
           </div>
         </div>
       </div>
-      <div className="width-100">
+      <div className="width-100 delet-div">
       Baixe o App 
       <div className='mt-40'>
       <a href="">
